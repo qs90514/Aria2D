@@ -13,7 +13,7 @@ Aria2D is a **Simple** Aria2 GUI for macOS.
 * Support multiple servers.
 * Support lnternal/local aria2c.
 
-# Thenks
+# Thanks
 - [Realm](https://realm.io/)
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 - [Just](https://github.com/JustHTTP/Just)
